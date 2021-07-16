@@ -1,3 +1,8 @@
+"""Shooting Covid game by Phan Huynh Thien Phuc
+This game is originally in a Udemy course (An introduction to game development in Python).
+I made some changes so now it's a Covid shooting game. You have masks as your HP and you
+have to dodge (or shoot) the Covid virus flying everywhere. Pretty cool, right?"""
+
 import pygame, sys, random
 
 
