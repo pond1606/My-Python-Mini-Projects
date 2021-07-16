@@ -9,7 +9,7 @@ This remake version doesn't tell you "Pico", "Fermi", "Bagels",
 it will tell you exactly what happened. For example:
 Correct digit(s) but in wrong position: 2
 Correct digit(s) and in right position: 1
-No correct digits!
+
 That would be straight to the point, right?"""
 
 import random
