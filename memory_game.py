@@ -1,5 +1,5 @@
 """Memory Game by Phan Huynh Thien Phuc
-You will see 9 cards on the screen. After 5 seconds (you can change this number on line 45),
+You will see 9 cards on the screen. After 5 seconds (you can change this number on line 39),
 they'll disappear and you'll have to guess the number of a given card. What a cool game
 to train your memory! Remember to run this using the terminal so it can print nicely."""
 
